@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :test do
-  gem 'capybara', '1.1.2'
+  gem 'capybara', '2.6.2'
 end
 
 group :development, :test do
